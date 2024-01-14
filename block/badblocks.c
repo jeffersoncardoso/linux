@@ -174,7 +174,7 @@
  *        |       S      |
  *        +--------------+
  * 4.2.2) If range E is acked and the setting range S is unacked, the setting
- *    request of S will be rejected, the result is also,
+ *    request of S will be rejected, the result is also, sadssda
  *        +--------------+
  *        |       E      |
  *        +--------------+
